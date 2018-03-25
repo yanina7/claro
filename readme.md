@@ -1,0 +1,1 @@
+![recurso](docs/linux.jpg)
